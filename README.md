@@ -21,6 +21,7 @@ During this initial phase, I developed and delivered the following core applicat
 The post-authentication success environment designed to safely route verified users.
 * **Core Skills applied:** Material card layouts, state optimization using `StatelessWidget`, and structured navigation pop-routing designed to sync with Firebase session sign-out states.
 * **Entry Point:** `lib/main.dart`
+![image alt](https://github.com/Prajakta901/ShadowFox/blob/097224ae80bdc693d76e7938abdd4388d0c6c51b/Task_1.jpeg)
   
 ### 2. Advanced Calculator App
 A sleek, responsive calculator utilizing a grid layout built entirely with Material Design principles.
