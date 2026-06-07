@@ -27,7 +27,7 @@ The post-authentication success environment designed to safely route verified us
 A sleek, responsive calculator utilizing a grid layout built entirely with Material Design principles.
 * **Core Skills applied:** Dynamic UI grid rendering, string-expression parsing, and robust error handling (such as avoiding division-by-zero crashes).
 * **Entry Point:** `lib/main.dart`
-
+![image alt](https://github.com/Prajakta901/ShadowFox/blob/9f07f779c1ae52dd5328d7017385a616fcf9c3fb/Task_2.jpeg)
 
 
 ---
